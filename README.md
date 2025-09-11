@@ -103,14 +103,15 @@ python other_defense.py -h
 
 ## Citation
 
-If you use this code, please cite:
+If you use TED++ in your research, please cite our paper:
 
 ```
-@article{tedpp_defense,
-  title={TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening},
-  author={...},
-  journal={...},
-  year={2025}
+@inproceedings{tedpp_defence,
+  title = {TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening},
+  author = {Nam Le and Leo Yu Zhang and Kewen Liao and Shirui Pan and Wei Luo},
+  booktitle = {Proceedings of the 2025 IEEE International Conference on Data Mining (ICDM)},
+  year = {2025},
+  organization = {IEEE}
 }
 ```
 
