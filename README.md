@@ -2,6 +2,9 @@
 
 <p align="center">
    <a href="https://arxiv.org/abs/2510.14299">
+    <img alt="IEEE" src="https://img.shields.io/badge/Official-IEEE-yellow?style=for-the-badge">
+  </a>
+  <a href="https://arxiv.org/abs/2510.14299">
     <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge">
   </a>
   <a href="https://github.com/namle-w/TEDpp/blob/main/assets/tedpp_poster.pdf">
@@ -11,6 +14,7 @@
     <img alt="Slides" src="https://img.shields.io/badge/Slides-PDF-green?style=for-the-badge">
   </a>
 </p>
+
 
 
 ![assets/diagram.png](assets/diagram.png)
