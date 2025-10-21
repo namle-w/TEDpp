@@ -1,9 +1,9 @@
 # TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening
 
 <p align="center">
-   <a href="https://arxiv.org/abs/2510.14299">
+   <!-- <a href="https://arxiv.org/abs/2510.14299">
     <img alt="IEEE" src="https://img.shields.io/badge/Official-IEEE-yellow?style=for-the-badge">
-  </a>
+  </a> -->
   <a href="https://arxiv.org/abs/2510.14299">
     <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-red?style=for-the-badge">
   </a>
