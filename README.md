@@ -124,11 +124,13 @@ python other_defense.py -h
 If you use TED++ in your research, please cite our paper:
 
 ```
-@article{le2025ted++,
+@inproceedings{le2025ted++,
   title={TED++: Submanifold-Aware Backdoor Detection via Layerwise Tubular-Neighbourhood Screening},
   author={Le, Nam and Zhang, Leo Yu and Liao, Kewen and Pan, Shirui and Luo, Wei},
-  journal={arXiv preprint arXiv:2510.14299},
-  year={2025}
+  booktitle={2025 IEEE International Conference on Data Mining (ICDM)},
+  pages={1350--1359},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
